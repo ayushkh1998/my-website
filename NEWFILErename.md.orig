@@ -1,0 +1,10 @@
+# DEMO PROJECT
+
+## new file added
+## untracked new file
+
+<<<<<<< HEAD
+this might cause conflict on updates branch
+=======
+im making this change by mistake
+>>>>>>> made my changes on update
