@@ -11,3 +11,5 @@ new update to stash
 check it i have to use git add before commting 
 added more files on master
 made changes to master
+
+added a new file
